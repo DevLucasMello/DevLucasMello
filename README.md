@@ -1,7 +1,7 @@
 ### Olá! Sou Lucas de Mello Santos 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor fullstack
-- 🌱 Estudando arquitetura de software
+- 🎓 Estudando arquitetura de software
 
 <div>
   <a href="https://github.com/devlucasmello">
