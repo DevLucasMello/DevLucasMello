@@ -1,4 +1,6 @@
-### Olá! Sou Lucas de Mello Santos 👋
+<h3 align="center">Olá! Sou Lucas de Mello Santos 👋</h3>
+
+<hr>
 
 - 💻 Trabalho como desenvolvedor fullstack
 - 🎓 Estudando arquitetura de software
