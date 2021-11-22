@@ -22,6 +22,7 @@
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">
+  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png">
 </div>
 
   ##
