@@ -17,11 +17,11 @@
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Ts" height="40" width="40" src="https://github.com/angular/angular/blob/master/aio/src/assets/images/logos/angular/angular.png">
-  <img align="center" alt="Lucas-Ts" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png">
-  <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">
+  <img align="center" alt="Lucas-Angular" height="40" width="40" src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png">
+  <img align="center" alt="Lucas-Node" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-SqlServer" height="30" width="40" src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png">
+  <img align="center" alt="Lucas-R" height="30" width="40" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png">
 </div>
 
